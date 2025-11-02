@@ -6,9 +6,12 @@ This repository contains my creative coding recreation of “My Heart Will Go On
 The goal of the project was to express musical structure through code — including melody, harmony, bass, and rhythmic texture — while understanding how emotion can be shaped through timing and pitch.
 
 
+
 🎧 Demo Link
 Click to listen to the project here:  
 https://tunepad.com/project/117943
+
+
 
 
 🧩 Project Overview
@@ -25,6 +28,8 @@ This made it easier to:
 - Adjust timing and phrasing without rewriting entire sections
 
 The tempo is set to 84 BPM, which suits the calm, flowing emotional character of the original song.
+
+
 
 
 🎼 Musical & Code Structure
@@ -46,6 +51,8 @@ Harmonic Progression Highlights
   Creates closure*
 
 
+
+
 🧠 What I Learned
 
 Through building this project, I developed a stronger understanding of:
@@ -58,6 +65,10 @@ Through building this project, I developed a stronger understanding of:
 This project helped me see that code can be expressive and creative, not only logical.
 
 
+
+
+
+
 🚀 Possible Future Improvements
 
 If I continue developing this piece, I would consider:
@@ -65,6 +76,9 @@ If I continue developing this piece, I would consider:
 - Adding string pad or vocal-style harmonies to widen the sound
 - Introducing more dynamic variation (e.g., softer intro → louder chorus)
 - Using more detailed arpeggiated textures in the accompaniment
+
+
+
 
 
 📄 Attribution
