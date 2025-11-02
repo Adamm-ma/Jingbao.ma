@@ -1,27 +1,25 @@
 # Adam
 
-My Heart Will Go On — TunePad Creative Coding Project
+# My Heart Will Go On — TunePad Creative Coding Project
 
 This repository contains my creative coding recreation of “My Heart Will Go On” using TunePad.  
 The goal of the project was to express musical structure through code — including melody, harmony, bass, and rhythmic texture — while understanding how emotion can be shaped through timing and pitch.
 
 
 
-🎧 Demo Link
+# 🎧 Demo Link
 Click to listen to the project here:  
 https://tunepad.com/project/117943
 
 
-
-
-🧩 Project Overview
+# 🧩 Project Overview
 This project re-creates the main melodic theme** and supports it with:
 - Piano melody
 - Chord accompaniment
 - Light guitar-style rhythmic pattern
 - Bass root motion
 
-Rather than writing everything in one block, I split the song into **reusable melodic phrases (verse phrase, pre-chorus phrase, chorus phrase, and a high-register bridge phrase).  
+Rather than writing everything in one block, I split the song into reusable melodic phrases (verse phrase, pre-chorus phrase, chorus phrase, and a high-register bridge phrase).  
 This made it easier to:
 - Organize the song structure clearly
 - Repeat and return to themes (just like in real music)
@@ -31,18 +29,17 @@ The tempo is set to 84 BPM, which suits the calm, flowing emotional character of
 
 
 
-
-🎼 Musical & Code Structure
+# 🎼 Musical & Code Structure
 
 | Element | Description | Function in the Song |
 |--------|-------------|----------------------|
-| **Melody (Piano)** | Written in phrases and reused across sections | Carries emotional storytelling |
-| **Chords (C, G, Am, F, Em)** | Simple functional harmony | Creates movement and emotional shape |
-| **Bass (C2, G1, A1, F1 etc.)** | Root‐note support | Grounds the harmony and gives weight |
-| **Guitar/Strum Pattern** | Gentle rhythmic layer | Adds texture without overwhelming melody |
-| **BPM = 84** | Medium-slow tempo | Maintains gentle, expressive feel |
+| Melody (Piano) | Written in phrases and reused across sections | Carries emotional storytelling |
+| Chords (C, G, Am, F, Em) | Simple functional harmony | Creates movement and emotional shape |
+| Bass (C2, G1, A1, F1 etc.) | Root‐note support | Grounds the harmony and gives weight |
+| Guitar/Strum Pattern | Gentle rhythmic layer | Adds texture without overwhelming melody |
+| BPM = 84 | Medium-slow tempo | Maintains gentle, expressive feel |
 
-Harmonic Progression Highlights
+# Harmonic Progression Highlights
 - Verse / Chorus: C → G → Am → F (I–V–vi–IV)  
   Emotionally familiar and warm*
 - Pre-Chorus / Bridge: Am → Em → F → G (vi–iii–IV–V)  
@@ -52,8 +49,7 @@ Harmonic Progression Highlights
 
 
 
-
-🧠 What I Learned
+# 🧠 What I Learned
 
 Through building this project, I developed a stronger understanding of:
 
@@ -67,9 +63,7 @@ This project helped me see that code can be expressive and creative, not only lo
 
 
 
-
-
-🚀 Possible Future Improvements
+# 🚀 Possible Future Improvements
 
 If I continue developing this piece, I would consider:
 
@@ -79,9 +73,7 @@ If I continue developing this piece, I would consider:
 
 
 
-
-
-📄 Attribution
+# 📄 Attribution
 
 Original music written by James Horner & Will Jennings 
 Performed by Celine Dion  
