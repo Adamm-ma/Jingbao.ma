@@ -2,6 +2,8 @@
 
 # My Heart Will Go On — TunePad Creative Coding Project
 
+This project focuses on music reconstruction and computational literacy—using code to represent musical phrases, timing, and emotional contours.
+
 This repository contains my creative coding recreation of “My Heart Will Go On” using TunePad.  
 The goal of the project was to express musical structure through code — including melody, harmony, bass, and rhythmic texture — while understanding how emotion can be shaped through timing and pitch.
 
