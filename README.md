@@ -80,3 +80,21 @@ Performed by Celine Dion
 Re-created for learning and non-commercial educational purposes.  
 Built in TunePad.
 
+
+# 🧱Code and Computational Thinking
+
+This project uses modular coding principles to build music:
+
+- Functions such as 'verse_phrase()', 'prechorus()', and 'chorus_a()' allow repetitive musical ideas to be written once and reused.
+
+- Drum patterns are written as short algorithmic loops (e.g., 'for i in range(8): playNote()...)') instead of being manually repeated.
+
+- Melodies, harmonies, bass lines, and rhythms are arranged in different TunePad cells, which taught me to think in systems rather than linear sequences.
+
+This approach helped me understand:
+
+- Abstraction (converting musical phrases into reusable code)
+
+- Pattern recognition (identifying repetitive musical structures)
+
+- Systems thinking (how tracks interact rather than being independent)
