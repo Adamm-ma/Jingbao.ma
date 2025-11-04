@@ -13,9 +13,19 @@ The goal of the project was to express musical structure through code — includ
 Click to listen to the project here:  
 https://tunepad.com/project/117943
 
+![2025-11-044 42 25-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5f66910-659f-4bdb-b97a-4b74efca6d1a)
 
 
-![Uploading 11月4日(1).gif…]()
+![2025-11-044 44 32-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3714bda3-7f91-4208-9024-c836582cf3d4)
+
+
+
+
+![2025-11-044 48 06-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2a1bf87-0064-45a1-97f9-5a205101784c)
+
+
+![Uploading 2025-11-044.49.55-ezgif.com-video-to-gif-converter.gif…]()
+
 
 
 
